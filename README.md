@@ -5,7 +5,7 @@
 ## About me 📖
 A junior FullStack developer also computer science student who is passionate about codes and building web projects.
 - 🔭 Currently working on personal project landing soon.
-- 🌱 I’m currently learning more about backend technologies node.js and pytorch.
+- 🌱 I’m currently learning more about pytorch and TensorFlow.
 
 ## 🛠 Skills & Technologies:
 
