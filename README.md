@@ -18,7 +18,7 @@ A junior FullStack developer also computer science student who is passionate abo
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,postgres)](https://skillicons.dev)
 - ⚡ I love debugging, problem-solving, and experimenting with new tech.
 - ⚙️ Always learning
 
