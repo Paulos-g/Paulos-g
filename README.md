@@ -1,6 +1,6 @@
 ## Hi I'm Paulos Girmachew. 👋
 <p>Also called Bebi 👨🏽‍💻</p
-<p>Curious & Tenacious Developer 🚀.</p>
+<p>Creative Developer 🚀 & 🎤 Worship Music Lover .</p>
 
 ## About me 📖
 A junior FullStack developer also computer science student who is passionate about codes and building web projects.
