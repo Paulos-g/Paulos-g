@@ -3,7 +3,7 @@
 <p>Creative Developer 🚀 &  Music Lover 🎤 .</p>
 
 ## About me 📖
-A junior FullStack developer also computer science student who is passionate about codes and building web projects.
+A junior FullStack developer also Computer science student who is passionate about codes and building web projects.
 - 🔭 Currently working on personal project landing soon.
 - 🌱 I’m currently learning more about pytorch and TensorFlow.
 
