@@ -1,5 +1,4 @@
 ## Hi I'm Paulos Girmachew. 👋
-<p>Also called Bebi 👨🏽‍💻</p
 <p>Creative Developer 🚀 &  Music Lover 🎤 .</p>
 
 ## About me 📖
