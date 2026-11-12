@@ -1,5 +1,5 @@
 ## Hi I'm Paulos Girmachew. 👋
-<p>Creative Developer 🚀 &  Music Lover 🎤 .</p>
+<p>Creative Developer 🚀 &  Music Lover 🎸 .</p>
 
 ## About me 📖
 A junior FullStack developer also Computer science student who is passionate about Cybersecurity and building web projects.
